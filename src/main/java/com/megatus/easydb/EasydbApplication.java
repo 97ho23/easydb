@@ -9,8 +9,6 @@ public class EasydbApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EasydbApplication.class, args);
 
-
-
 	}
 
 }
